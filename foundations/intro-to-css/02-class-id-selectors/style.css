@@ -1,0 +1,22 @@
+
+
+
+.ab {
+background-color: rgb(221, 151, 151);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#a {
+    color: blue;
+    font-size: 36px;
+}
+
+#b {
+    background-color: rgb(103, 192, 103);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ba {
+    font-size: 24px;
+}
